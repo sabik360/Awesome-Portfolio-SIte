@@ -1,0 +1,144 @@
+{
+  "name": "Sabik",
+  "headerTaglineOne": "Hi there,",
+  "headerTaglineTwo": "I'm Sabik",
+  "headerTaglineThree": "Developer &",
+  "headerTaglineFour": "A Data analyst",
+  "headerTaglineFive": "and Designer",
+  "showCursor": false,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": false,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/sabik360"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/sabik360/"
+    },
+    {
+      "id": "3",
+      "title": "Resume",
+      "link": "https://drive.google.com/file/d/1ZzxoSs5OUUt69jRwIKPjMMoNV_Cs4Ohz/view?usp=sharing"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:sabikofficial360@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "HR Attrition Analysis",
+      "description": "Power BI project",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/pbi%203.png",
+      "url": "https://github.com/sabik360/HR_Attrition_Analysis"
+    },
+    {
+      "id": "2",
+      "title": "SQL in 30 Minutes",
+      "description": "SQL Tutorial",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/sql3.png",
+      "url": "https://github.com/sabik360/SQL_in_30_Mins-"
+    },
+    {
+      "id": "3",
+      "title": "Python Project",
+      "description": "Python Project",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/python3.png",
+      "url": "https://github.com/sabik360/"
+    },
+    {
+      "id": "4",
+      "title": "Tableau Project",
+      "description": "Tableau project",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/tableau3.png",
+      "url": "https://github.com/sabik360/"
+    },
+    {
+      "id": "5",
+      "title": "Dataset Analysis",
+      "description": "Data analysis based on a dataset",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/dataset%203.png",
+      "url": "https://www.behance.net/gallery/138451101/-Share-Your-Jerky-Brand-Design"
+    },
+    {
+      "id": "6",
+      "title": "Portfolio Website",
+      "description": "Website made using Next.js and TailwindCSS",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/css3.png",
+      "url": "https://github.com/sabik360/final/tree/main"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Data Analysis and Interpretation",
+      "description": "Analyse large datasets to extract meaningful insights and patterns. Uses statistical techniques and domain knowledge to uncover trends, correlations, and actionable information."
+    },
+    {
+      "id": "2",
+      "title": "Reporting and Visualization",
+      "description": "Create reports, dashboards, and visualizations that present data findings in a clear and comprehensible manner, using tools like Excel, Tableau, Power BI, or custom software to communicate complex data-driven insights to stakeholders, making it easier for decision-makers to understand and act on the information."
+    },
+    {
+      "id": "3",
+      "title": "Predictive Modeling and Forecasting",
+      "description": "Builds predictive models using machine learning algorithms and statistical methods. These models can forecast future trends, customer behavior, sales, and more. Predictive modeling enables organizations to proactively plan and make decisions based on anticipated outcomes, optimizing resource allocation and strategies."
+    },
+    {
+      "id": "4",
+      "title": "Data Cleaning and Quality Assurance",
+      "description": "Performs data cleaning and quality assurance processes. Ensure that datasets are free from errors, inconsistencies, and missing values."
+    }
+  ],
+  "aboutpara": " Pragmatic veteran with a strong interest in reporting and analytics. Experienced in extracting, transforming, and reporting on data from databases and spreadsheets utilizing SQL and other technologies. Proficient in manipulating data to create custom reports, charts, and dashboards.",
+  "resume": {
+    "tagline": "  I'm a Data analyst and software developer.",
+    "description": "Well-versed with SQL, Python,Power BI and most of the ETL Frameworks and Reporting tools.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "July 2021 - February 2023",
+        "type": "Full Time",
+        "position": "Data Analyst at Infosys",
+        "bullets": "BI Specialist with emphasis on ETL process."
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "November 2020 - April 2021",
+        "type": "Internship",
+        "position": "Web Development Intern",
+        "bullets": "developed frontend for a react application, created interactive websites using HTML and CSS"
+      }
+    ],
+    "education": {
+      "universityName": "Rajiv Gandhi Insititute Of Technology, Kottayam",
+      "universityDate": "2017-2021",
+      "universityPara": "Graduated with a four year Computer Science degree with GPA of 8.2 from one of the best colleges in Kerala."
+    },
+    "languages": [
+      "Python",
+      "SQL",
+      "DAX"
+    ],
+    "Tools": [
+      "PowerBI",
+      "Tableau",
+      "Excel"
+    ],
+    "others": [
+      "AWS",
+      "Databricks",
+      "AWS",
+      "SSMS",
+      "SSRS",
+      "Apache Airflow"
+    ]
+  }
+}
