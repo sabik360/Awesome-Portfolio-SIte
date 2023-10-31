@@ -1,8 +1,10 @@
 My First Portfolio Website made using JavaScript and published using Vercel. Check it out!
 https://sabik.me/
-![grab-landing-page](https://github.com/sabik360/final/blob/main/Preview.gif)
 
-### Features - 
+### Preview 
+![grab-landing-page](https://raw.githubusercontent.com/sabik360/Awesome-Portfolio-SIte/main/screen.gif)
+
+### Features 
 
 - Minimal Design
 - Easy To Browse
