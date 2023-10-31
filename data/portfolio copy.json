@@ -36,42 +36,42 @@
       "id": "1",
       "title": "HR Attrition Analysis",
       "description": "Power BI project",
-      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/pbi%203.png",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/Awesome-Portfolio-SIte/main/imgs/pbi.png",
       "url": "https://github.com/sabik360/HR_Attrition_Analysis"
     },
     {
       "id": "2",
       "title": "SQL AirBnB Data Analysis",
       "description": "SQL Project",
-      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/sql3.png",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/Awesome-Portfolio-SIte/main/imgs/sql.png",
       "url": "https://morioh.com/p/a1f87b2f39ba?f=65089a2cb8bac1579faad3fb"
     },
     {
       "id": "3",
       "title": "CSV to SQL Converter",
       "description": "Python Application",
-      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/python3.png",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/Awesome-Portfolio-SIte/main/imgs/python.png",
       "url": "https://github.com/sabik360/CSV-to-SQL-Converter"
     },
     {
       "id": "4",
       "title": "Tableau Project",
       "description": "Tableau project",
-      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/tableau3.png",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/Awesome-Portfolio-SIte/main/imgs/tableau.png",
       "url": "https://github.com/sabik360/"
     },
     {
       "id": "5",
       "title": "SQL in 30 Minutes",
       "description": "Tutorial",
-      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/dataset%203.png",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/Awesome-Portfolio-SIte/main/imgs/dataset.png",
       "url": "https://github.com/sabik360/SQL_in_30_Mins-"
     },
     {
       "id": "6",
       "title": "Portfolio Website",
       "description": "Website made using Next.js and TailwindCSS",
-      "imageSrc": "https://raw.githubusercontent.com/sabik360/SQL_in_30_Mins-/main/css3.png",
+      "imageSrc": "https://raw.githubusercontent.com/sabik360/Awesome-Portfolio-SIte/main/imgs/css.png",
       "url": "https://github.com/sabik360/Awesome-Portfolio-SIte"
     }
   ],
@@ -97,7 +97,7 @@
       "description": "Performs data cleaning and quality assurance processes. Ensure that datasets are free from errors, inconsistencies, and missing values."
     }
   ],
-  "aboutpara": " Pragmatic veteran with a strong interest in reporting and analytics. Experienced in extracting, transforming, and reporting on data from databases and spreadsheets utilizing SQL and other technologies. Proficient in manipulating data to create custom reports, charts, and dashboards.",
+  "aboutpara": " Pragmatic veteran with a strong interest in reporting and analytics. Competent in extracting, transforming, and reporting on data from databases and spreadsheets utilizing SQL and other technologies. Proficient in manipulating data to create custom reports, charts, and dashboards.",
   "resume": {
     "tagline": "  I'm a Data analyst and software developer.",
     "description": "Well-versed with SQL, Python,Power BI and most of the ETL Frameworks and Reporting tools.",
